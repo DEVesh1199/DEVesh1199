@@ -1,11 +1,57 @@
-<h1 align="center">Hi 👋, I'm Devesh Kumar</h1>
-<h3 align="center">A passionate frontend developer with a love for creating visually appealing and user-friendly web experiences. My journey in the world of web development began 2.5 years ago, and I've been hooked ever since.</h3>
+# Devesh Kumar
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kumardevesh1818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumardevesh1818" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/devesh-kumar-667006148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/devesh-kumar-667006148" height="30" width="40" /></a>
-</p>
+### Computer Vision Engineer | AI/ML | Geospatial & Remote-Sensing Applications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I am a Computer Vision Engineer with experience building practical object detection, image segmentation, change-detection, and geospatial imagery workflows. I currently work with satellite and remote-sensing imagery, combining deep-learning models with GIS tools to solve real-world visual-analysis problems.
+
+My earlier experience in quality engineering also gives me a strong foundation in testing, reliability, and structured problem-solving. I am currently deepening my skills in machine learning and production-grade computer vision while building a focused portfolio for Computer Vision and AI/ML engineering roles.
+
+## Areas of Focus
+
+- Object detection and instance/semantic segmentation
+- Satellite and remote-sensing image analysis
+- Geospatial AI and large-image processing
+- Vision-language models and prompt-based visual analysis
+- Dataset preparation, annotation, validation, and model evaluation
+- AI-assisted change-detection workflows
+
+## Technical Skills
+
+**Languages:** Python, SQL  
+**Computer Vision & ML:** YOLO, SAM, PyTorch, OpenCV, NumPy  
+**Geospatial:** QGIS, GDAL, Rasterio, GeoTIFF, GeoPackage, Shapefile  
+**Annotation & Data:** CVAT, Label Studio, LabelImg, FiftyOne  
+**Engineering Tools:** Git, GitHub, Docker, Linux, Conda
+
+## Experience
+
+- **Computer Vision / Project Engineer — Bharat Electronics Limited**
+  - Work on computer-vision and geospatial image-analysis workflows involving detection, segmentation, remote-sensing imagery, and AI-assisted analysis.
+- **Quality Engineering Analyst — Accenture**
+  - Worked on software quality, testing, defect analysis, and reliable delivery processes.
+
+## Current Goals
+
+- Build production-ready Computer Vision and Geospatial AI systems
+- Strengthen ML fundamentals, model evaluation, and deployment skills
+- Develop open-source portfolio projects using real-world imagery
+- Explore multimodal and vision-language models for visual intelligence
+
+## Featured Work
+
+I am currently preparing public, well-documented projects in:
+
+- Object detection and segmentation
+- Remote-sensing image analysis
+- Geospatial AI workflows
+- Large-image tiling and inference
+- Vision-language-model applications
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/devesh-kumar-667006148)
+- [Email](mailto:kumar.devesh1818@gmail.com)
+
+---
+
+Open to Computer Vision, AI/ML, and Geospatial AI opportunities in India.
